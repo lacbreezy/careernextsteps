@@ -1,0 +1,77 @@
+html {
+    box-sizing: border-box;
+    font-size: 16px;
+  }
+  
+*, *:before, *:after {
+    box-sizing: inherit;
+  }
+  
+body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+  }
+  
+ol, ul {
+    list-style: none;
+  }
+  
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+#nav-bar {
+  margin-top: 3%;
+}
+
+#logo {
+  margin-right: 5%;
+}
+
+#about {
+  margin-top: 3%;
+  margin-right: 18%;
+  margin-left: 18%;
+  margin-bottom: 5%;
+}
+
+#video {
+  margin-top: 5%;
+    margin-right: 18%;
+    margin-left: 18%;
+}
+
+#contact {
+  margin-right: 18%;
+  margin-left: 18%;
+}
+
+#video-header {
+  padding-bottom: 3%;
+}
+
+#submit {
+  margin-top: 1%;
+}
+
+#personal-info, #subject {
+  padding-bottom: 2%;
+}
+
+#social {
+  margin-top: 3%;
+}
+
+#social li {
+  padding-bottom: 5%;
+}
+
+#social a {
+  color: #000;
+}
+
+#social i {
+  font-size: 48px;
+}
